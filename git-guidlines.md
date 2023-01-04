@@ -20,10 +20,10 @@ We use `feature/`,`bug/` and `refactor/`as a prefix in the name to suggest what 
 
 ## 3. How to write good commit message:
 
-    ADDED: (Your commit messages of new functionality/feature added)
-    UPDATED: (Your commit messages of functionality/feature is changed or updated)
+    ADD: (Your commit messages of new functionality/feature added)
+    UPDATE: (Your commit messages of functionality/feature is changed or updated)
     REFACTOR: (Your commit messages of ode formatted/ Package moved/ Conflicts Resolved)
-    FIXED: (Your commit message what you have fixed)
+    FIX: (Your commit message what you have fixed)
 
 * Every commit should start with keywords like "Refactor:, Bug:, Feature:, Chore:", followed by name feature/bug you are working on. Something like that "Bug:  Fix crash on home button click"
 *  Commits should be small and should only do what its commit message says. For example, If it says that it fixes crash on home button click, it should only fix crash on Home button click and nothing more. Not even a small change needs to be done here.
